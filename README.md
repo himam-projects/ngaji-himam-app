@@ -1,5 +1,5 @@
 
-![Ngaji Himam](Asssets/Design/featured-image-playstore.png)
+![Ngaji Himam](Assets/Design/featured-image-playstore.png)
 
 #NgajiHimam #SantriSuci #KaryaSantri
 
